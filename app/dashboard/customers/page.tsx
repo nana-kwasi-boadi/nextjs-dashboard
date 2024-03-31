@@ -1,6 +1,6 @@
 
 export default function Page() {
     return(<>
-    <p>Customer's page</p>
+    <p>Customer page</p>
     </>)
 }
